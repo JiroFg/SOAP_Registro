@@ -1,0 +1,15 @@
+https\registro_uv_mx\registro\package-info.class
+https\registro_uv_mx\registro\AddRegistroResponse.class
+https\registro_uv_mx\registro\BuscarRegistroResponse.class
+https\registro_uv_mx\registro\ObjectFactory.class
+mx\uv\registro\Configuracion.class
+mx\uv\registro\Registro.class
+https\registro_uv_mx\registro\EliminarRegistroRequest.class
+mx\uv\registro\RegistroApplication.class
+https\registro_uv_mx\registro\MostrarRegistrosResponse.class
+https\registro_uv_mx\registro\AddRegistroRequest.class
+https\registro_uv_mx\registro\EliminarRegistroResponse.class
+https\registro_uv_mx\registro\MostrarRegistrosResponse$Registro.class
+https\registro_uv_mx\registro\BuscarRegistroResponse$Registro.class
+https\registro_uv_mx\registro\BuscarRegistroRequest.class
+mx\uv\registro\IRegistro.class
