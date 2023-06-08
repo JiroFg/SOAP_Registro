@@ -1,1 +1,6 @@
+Este proyecto fue desarrollado con Spring, para llevar a cabo su ejecución:
 
+1. ./mvnw compile
+2. ./mvnw spring-boot:run
+
+Por defecto se ejecuta en el puerto 8080
